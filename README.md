@@ -1,7 +1,7 @@
 
 # CloudAppInfra – Scalable Infrastructure for Dockerized Web Apps (AWS, Terraform, CloudWatch)
 
-This project simulates a **production-grade infrastructure deployment** for a cloud-native web application, built entirely with **Terraform**, **Docker**, and **AWS services**. It's designed to reflect the kind of projects and architecture used by real-world companies like **Inktel**, where secure, scalable, and observable infrastructure is mission-critical.
+This project simulates a **production-grade infrastructure deployment** for a cloud-native web application, built entirely with **Terraform**, **Docker**, and **AWS services**. It's designed to reflect the kind of projects and architecture used by real-world companies where secure, scalable, and observable infrastructure is mission-critical.
 
 ---
 
