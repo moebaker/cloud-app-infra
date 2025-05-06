@@ -87,5 +87,4 @@ terraform apply
 ## Author
 
 **Mohamed Baker**  
-DevOps & Cloud Engineering Portfolio  
-[LinkedIn] | [GitHub] | moebaker954@gmail.com
+DevOps & Cloud Engineering Portfolio | moebaker954@gmail.com
